@@ -6,4 +6,5 @@ The app implements common React features such as components, modules, hooks, and
 
 To run the app, make sure to run 'npm install' in the cli in order to use all the necessary modules/dependencies required by the json package. Next, open up a browser tab and run 'npm start' from the main app directory to launch the app. 
 
-![Keeper App](https://user-images.githubusercontent.com/34729011/120903534-7aa48e80-c5fb-11eb-9cbc-d289ddec2da3.png)
+![Keeper_App](https://user-images.githubusercontent.com/34729011/121071703-24635700-c785-11eb-89fa-05d39a6e0963.png)
+
